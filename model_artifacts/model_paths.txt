@@ -1,0 +1,3 @@
+Feature Extractor: D:\Sentiment\model_artifacts\sentimeld_model_feature_extractor.pkl
+Traditional Model: D:\Sentiment\model_artifacts\sentimeld_model_traditional.pkl
+Ensemble Model: D:\Sentiment\model_artifacts\sentimeld_model_ensemble.pkl
